@@ -16,7 +16,7 @@ All files are included in my repository. You can execute [YOLOv2/train.bat](http
 #### 1. Download pre-trained model and dll files.
 [YOLOv2_SE_Detection_Example/download_pretrained_model_and_dll.bat](https://github.com/springkim/YOLOv2_SpringEdition/blob/master/YOLOv2_SE_Detection_Example/download_pretrained_model_and_dll.bat)
 
-#### 2. Run
+#### 2. Run in your local system
 
 Example source is in my repository. You need only 1 header file and 2 dll files.
 
@@ -59,7 +59,7 @@ Release loaded network.
 
 Original YOLOv2 has so many dependencies. I removed that.
 
-A YOLOv2_Train_SE.exe is automatically choosing multi-gpu training. and select backup weights.
+A YOLOv2_Train_SE.exe is automatically choosing multi-gpu training and select backup weights.
 
 ## Software requirement
 
